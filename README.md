@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bijay-jena
-- 👀 I’m interested in React, Flutter, Kotlin
-- 🌱 I’m currently learning Andoid App Dev, Substrate, Blockchain, Serverless
-- 💞️ I’m looking to collaborate on Andoid App Dev using Kotlin
+- 👀 I’m interested in React Native, Swift, Kotlin
+- 🌱 I’m currently learning Andoid App Dev, iOS App Dev
 - 📫 How to reach me bijay.jena@squbix.com
 
 <!---
